@@ -1,23 +1,25 @@
 # 3_2_BD
+Please refer to the following ipynb files and dont forget to check theh pdf reports!
+## Exercise I
+
+Hadoop + Pig + HIVE
 
 ## Exercise II A
 
-SciKit Stack
-
+SciKit Stack complete Modeling
 
 ## Exercise II B
 
-Deep Learning
-
+Keras + SciKit - Deep Learning
 
 ## Exercise III
 
-Data Bricks
+pySpark Modeling in Data Bricks
 
 ## Exercise IV A
 
-Topic Modeling
+NLP - Topic Modeling
 
 ## Exercise IV B
 
-Sentiment Analysis
+NLP - Sentiment Analysis
